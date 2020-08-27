@@ -88,6 +88,8 @@ ____
 * 服务1：http://localhost:80
 
     服务1下以路径为区分，部署了 <font color="red">vuev1</font>与<font color="red">vuev2</font>
+    
+    缺点是该模式下项目的token与cookie会共享。很难受 o(╥﹏╥)o
 * 服务2：http://localhost:8099
 
 ___
