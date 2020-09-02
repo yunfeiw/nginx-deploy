@@ -26,4 +26,4 @@ nginx 的简单命令
 
 - <font color="green">problem</font> 分支记录部署时的问题
 
-- <font color="green">liunx-nginx</font> 分支对应 nginx 的部署
+- <font color="green">linux-nginx</font> 分支对应 nginx 的部署
