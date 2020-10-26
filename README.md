@@ -28,4 +28,8 @@ npm install -g pm2
 
 * 查看摸个进程/应用具体情况 pm2 describe xxx
 
-* 
+* 查看进程/应用的资源消耗情况 pm2 monit
+
+* 重启进程/应用 pm2 rstart xxx
+
+* 重启所有进程/应用 pm2 restart all
