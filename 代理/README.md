@@ -1,6 +1,6 @@
 ## 代理
 
-配置server中的proxy_pass
+配置 server 中的 proxy_pass
 
 ```
 server {
@@ -25,3 +25,5 @@ location /api3{
 }
 
 ```
+
+详细配置可查看 `nginx.conf`
