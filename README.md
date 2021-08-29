@@ -18,6 +18,15 @@ nginx 的简单命令
 
 ---
 
+### 防火墙配置
+
+- firewall-cmd --query-port=8090/tcp 查看端口
+
+- firewall-cmd --permanent --add-port=8092/tcp 新增端口
+
+- netstat -ntpl    查看端口
+
+- firewall-cmd --reload 重新加载防火墙策略
 ### 分支
 
 - <font color="green">vue</font> 分支对应部署 vue 项目
